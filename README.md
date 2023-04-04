@@ -32,12 +32,14 @@ Here are some ideas to get you started:
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages and Tools:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]
+
+<-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link) -->
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)-->
 
+
+### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
